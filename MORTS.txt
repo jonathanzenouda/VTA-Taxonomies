@@ -1,0 +1,1 @@
+﻿CLASSIFIER:умертвитьCLASSIFIER:погибшиеCLASSIFIER:смертьCLASSIFIER:гибельCLASSIFIER:преступлениеCLASSIFIER:умершийCLASSIFIER:множествоCLASSIFIER:застрелитьCLASSIFIER:убийство

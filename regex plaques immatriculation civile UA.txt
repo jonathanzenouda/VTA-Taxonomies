@@ -1,0 +1,3 @@
+REGEX:[a-zA-Z]{2} [\d]{4} [a-zA-z]{2}
+REGEX:[a-zA-Z]{2}[\d]{4}[a-zA-Z]{2}
+REGEX:[a-zA-Z]{2}-[\d]{4}-[a-zA-Z]{2}
