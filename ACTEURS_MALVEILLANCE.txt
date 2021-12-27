@@ -1,1 +1,0 @@
-﻿CLASSIFIER:вооруженная группировкаCLASSIFIER:атакующийCLASSIFIER:террористCLASSIFIER:спецназCLASSIFIER:подозреваемый
